@@ -1,7 +1,7 @@
 # DKs-Monolith-Toolhead
 Designed by https://github.com/abigexplosion
 
-This Toolhead requires ALOT of post processing it's not for the faint of heart.
+This Toolhead requires A LOT of post processing it's not for the faint of heart.
 
 I intend to make some modified versions that have, improved CAD, a timeline (DK is a menance), Helicoil support, Regular BMG Support, PEEK tube lined filament path, 15/18mm CPAP tubing
 
